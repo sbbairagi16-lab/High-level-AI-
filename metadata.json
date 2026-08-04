@@ -1,0 +1,6 @@
+{
+  "name": "MindPulse AI",
+  "description": "AI-powered daily mood journaling, analytics, and personalized wellness tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
